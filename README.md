@@ -24,7 +24,7 @@ No windows will be display more than 1sec, no verbose, no log,
 [+] Auto-restart if the miner is closed;  
 [+] Autoload;  
 [+] Auto-Update;  
-*dev donate 10% its mean the UTopia will min 120min for the user and 12 minutes for the dev
+*dev donate 10% its mean the Utopia will min 120min for the user and 12 minutes for the dev
 
 # Download  
 Dowload from Github Pwnedor.exe.
