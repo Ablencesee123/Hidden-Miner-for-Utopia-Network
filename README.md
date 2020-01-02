@@ -21,7 +21,7 @@ No windows will be display more than 1sec, no verbose, no log,
 [+] After infection, the assembly starts immediately  
 [+] When you open the Task Manager, Process Hacker, Process Explorer, Perfmon, System Explorer,  
     PCHunter64, HWiNFO64, the miner is turned off. Run only after closing the program above for 2 minute;  
-[+] Auto-restart if the miner is closed;  
+[+] Auto-restart if the miner is closed by the user after 1minutes;  
 [+] Autoload;  
 [+] Auto-Update;  
 *dev donate 10% its mean the Utopia will min 120min for the user and 12 minutes for the dev
