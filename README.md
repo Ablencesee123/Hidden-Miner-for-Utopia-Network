@@ -6,7 +6,7 @@ Easy to install, without admin right.
 
 
 
-#What is Utopia ?  
+# What is Utopia ?  
 As mentioned in website : 
 Utopia is your all-in-one kit for secure instant messaging, encrypted e-mail communication, anonymous payments and private web browsing.   
 Official Website : https://u.is/en/  
@@ -34,6 +34,9 @@ in this file you must provide you'r utopia token in the first line without "--to
 Exemple of content of token.txt file :  
 45675BC9A6E34147862140CA8B30E130  
 
+# Download  
+Dowload from Github and extract Pwnedor.7z you will find Pwnedor.exe which is the software.
+If you need to delet all compoment of the Pwnedor, Download "killPwnedor.7z", extract and launch "killPwnedor.exe"
 
 # informations  
 A responsibility: The Developer shall not be liable for any damage, direct or indirect damages (including losses from loss of profit, 
