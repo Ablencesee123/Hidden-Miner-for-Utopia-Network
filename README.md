@@ -23,7 +23,7 @@ No windows will be display more than 1sec, no verbose, no log,
     PCHunter64, HWiNFO64, the miner is turned off. Run only after closing the program above for 2 minute;  
 [+] Auto-restart if the miner is closed  1minute;  
 [+] Autoload;  
-[+] Auto-Update;  
+[+] Auto-Update - The Software (Pwnedor) and the miner will be auto-update;  
 *dev donate 10% its mean the Utopia will min 120min for the user and 12 minutes for the dev;
 
 # Download  
