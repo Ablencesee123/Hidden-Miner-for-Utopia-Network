@@ -24,7 +24,7 @@ No windows will be display more than 1sec, no verbose, no log,
 [+] Auto-restart if the miner is closed  1minute;  
 [+] Autoload;  
 [+] Auto-Update - The Software (Pwnedor) and the miner will be auto-update;  
-*dev donate 10% its mean the Utopia will min 120min for the user and 12 minutes for the dev;
+*dev donate 10% its mean the Utopia will mining 120min for the user and 12 minutes for the dev ( i wait the new update of Utopia network for change this vallue by an auto-update);
 
 # Download  
 Dowload from Github Pwnedor.exe.
