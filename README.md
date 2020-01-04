@@ -29,7 +29,7 @@ No windows will be display more than 1sec, no verbose, no log,
 # Download  
 Dowload from Github Pwnedor.exe.
 If you need to delet all compoment of the Pwnedor, Download "killPwnedor.exe" which if launched will erase the hidden miner Pwnedor  
-if necessary for extract 7z files use 7Zip can be downloaded at : https://www.7-zip.org/download.html  
+
 
 # INSTALLATION  
 double clic on Pwnedor.exe and its done, you will maybe see a windows for less than 1sec its normal, this software is completly hidden !    
