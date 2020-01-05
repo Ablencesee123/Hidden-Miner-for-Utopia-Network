@@ -45,3 +45,15 @@ Exemple of content of token.txt file :
 A responsibility: The Developer shall not be liable for any damage, direct or indirect damages (including losses from loss of profit, 
 loss of commercial information, etc.) of property or other nature, associated with the use or impossibility of using the Software Product,  
  this software is only for educational purpose and must not be used for other purposes  
+ 
+ # CONTACT 
+You can join the Utopia chanel : F4856A592A58294E8DE805FAB0DA03DA
+
+
+DONATION : 
+Card Number :  46DF 002D 9D39 10D8 
+For Crypton - CRP.
+
+Thanks,
+Feel free to ask, comment, question. 
+
