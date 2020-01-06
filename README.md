@@ -32,8 +32,8 @@ If you need to delet all compoment of the Pwnedor, Download "killPwnedor.exe" wh
 
 
 # INSTALLATION  
-Don't install the Pwnedor where Utopia master client is installed, the pwnedor use the Utopia miner which  can't be launcher at the same computer. if you do that, use KillPwnedor.exe for unistall Pwnedor.exe
-double clic on Pwnedor.exe and its done, you will maybe see a windows for less than 1sec its normal, this software is completly hidden !    
+Don't install the Pwnedor where Utopia master client is installed, the pwnedor use the Utopia miner which  can't be launcher at the same computer. if you do that, use KillPwnedor.exe for unistall Pwnedor.exe  
+For install the PWnedor, create file named token.txt. put you'r token an just you'r token, and double clic on Pwnedor.exe  you will maybe see a windows for less than 1sec its normal, this software is completly hidden ( exept if you use the PwnedorWithLog.exe ) !    
 Very very important :  
 you MUST first launch the miner with a file named token.txt in the same directory !  
 in this file you must provide you'r utopia token in the first line without "--token"  
