@@ -51,7 +51,7 @@ loss of commercial information, etc.) of property or other nature, associated wi
 You can join the Utopia chanel : F4856A592A58294E8DE805FAB0DA03DA
 
 
-DONATION : 
+DONATION :   
 Card Number :  46DF 002D 9D39 10D8   
 For Crypton - CRP.
 
